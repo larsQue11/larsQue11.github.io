@@ -14,10 +14,11 @@
     {% endif %}
   </div>
 
-  {% comment %} <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+  <div class="author__content">
+    {% comment %} <h3 class="author__name">{{ author.name }}</h3> {% endcomment %}
+    <br>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-  </div> {% endcomment %}
+  </div> 
 <br>
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
