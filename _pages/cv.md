@@ -11,18 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Biomedical Engineering, Mercer University, Macon, GA, USA, 2013
+* M.S. Computer Science, Kennesaw State University, Marietta, GA, USA, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+Kennesaw State University
+* Summer 2015: Graduate Research Assistant
+  * 
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+Anheuser-Busch, InBev
+* Fall 2015: Quality Assurance Analyst
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -41,8 +42,11 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Projects
+======
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -52,7 +56,7 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
