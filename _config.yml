@@ -85,6 +85,7 @@ author:
   bio              : "Eternal student | Aspiring AI researcher |"
   location         : "Atlanta, GA, USA"
   employer         : "Kennesaw State University"
+  i2s_lab          : "true"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
