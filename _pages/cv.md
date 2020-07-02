@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Access a PDF of my résumé here](www.google.com)
+[Access a PDF of my résumé here](https://larsque11.github.io/files/WilliamStoneResume.pdf){: .btn }
 
 Research Interests
 -------
@@ -18,8 +18,8 @@ Artificial Intelligence | Machine Learning | Social Networking | Data Privacy | 
 </p>
 
 
-Education
-======
+# Education
+------
 ## Master of Science in Computer Science  
 _Thesis Title_: "Rethinking the Weakness of Stream Ciphers and Its Application to Encrypted Malware Detection"   
 Kennesaw State University, Marietta, GA, USA  
@@ -33,15 +33,14 @@ August 2017-Summer 2020
 
 ## Bachelor of Science in Biomedical Engineering  
 Minor in Economics  
+_Senior Design_: Protoype of a lumbar support device to be used in the University's service trips to provide aid in Vietnam  
 Mercer University, Macon, GA, USA  
 August 2008-May 2013  
-### Projects
-  * Senior Design: Protoype of a lumbar support device to be used in the University's service trips to provide aid in Vietnam
 
-Work experience
-======
-Graduate Research Assistant  
+<br />
+# Employment
 ------
+## Graduate Research Assistant  
 Information and Intelligent Security Lab  
 Kennesaw State University  
 April 2019 - Current: 
@@ -50,8 +49,7 @@ April 2019 - Current:
   * Participate in weekly status meetings and student-led seminars on paper surveys
   * Survey of recent advances in smart contract applications (co-author)
 
-Quality Assurance Analyst  
-------
+## Quality Assurance Analyst  
 Anheuser-Busch, InBev  
 April 2014 - Current: 
   * Collect and maintain test data
@@ -62,21 +60,22 @@ April 2014 - Current:
   * Collaborate with teams and operations staff
   * Maintain clean work areas to ensure accurate tests results and equipment functionality
 
-Math Tutor  
-------
+## Math Tutor  
 Sylvan Learning Center  
 August 2010 - January 2013
   * Planned, prepared, and delivered lessons to grade school students
-  
-Skills
-======
-#### Programming Languages
+  * yee
+
+<br />
+# Skills
+------
+### Programming Languages
   * Python
   * Java
   * Go
   * C
 
-#### Analytical Tools
+### Analytical Tools
   * SQL/MySQL
   * MongoDB
   * Apache Spark
@@ -85,21 +84,22 @@ Skills
   * MATLAB
   * MS Excel
 
-#### Frontend and Development Tools
+### Frontend and Development Tools
   * Android Studio (Java backend)
   * Firebase for Android
   * XML
   * HTML/CSS
   * Node.js
 
-#### Miscellaneous
+### Miscellaneous
   * Linux
   * Git
   * Docker
   * LaTeX
 
-Publications
-======
+<br />
+# Publications
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
