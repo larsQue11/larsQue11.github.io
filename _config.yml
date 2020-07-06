@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "William Stone"
   avatar           : "profile.png"
-  bio              : "Eternal student | Aspiring AI researcher |"
+  bio              : "Then: Engineer | Now: Scientist | Later: AI Researcher" #"Eternal student | Aspiring AI researcher |"
   location         : "Atlanta, GA, USA"
   employer         : "Kennesaw State University"
   i2s_lab          : "true"

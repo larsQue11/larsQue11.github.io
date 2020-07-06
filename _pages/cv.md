@@ -64,7 +64,10 @@ April 2014 - Current:
 Sylvan Learning Center  
 August 2010 - January 2013
   * Planned, prepared, and delivered lessons to grade school students
-  * yee
+  * Prepped students for class, state, and national exams
+  * Maintained and assessed records for student progress
+  * Provided customized assistance tailored to student needs
+  * Managed multiple lesson plans to serve up to 5 students simultaneously
 
 <br />
 # Skills
