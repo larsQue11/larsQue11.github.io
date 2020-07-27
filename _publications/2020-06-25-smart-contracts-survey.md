@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "Recent Advances in Smart Contracts: A Technical Overview and State of the Art"
 collection: publications
-permalink: /publication/2020-06-25-paper-title-number-1
-excerpt: 'A survey paper covering recent trends in the application of smart contracts.'
+permalink: /publication/2020-06-25-smart-contracts-survey
+excerpt: 'A survey paper covering recent trends in the application of smart contracts. (second author)'
 date: 2020-06-25
 venue: 'Journal 1'
 paperurl: 'https://ieeexplore.ieee.org/document/9125932'
