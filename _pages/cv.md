@@ -23,7 +23,7 @@ Artificial Intelligence | Machine Learning | Social Networking | Data Privacy | 
 ## Master of Science in Computer Science  
 _Thesis Title_: "Rethinking the Weakness of Stream Ciphers and Its Application to Encrypted Malware Detection"   
 Kennesaw State University, Marietta, GA, USA  
-August 2017-Summer 2020  
+August 2017-July 2020  
 ### Projects
   * Big Data: Looking for trends in COVID-19 data to determine which communities (based on age, socioeconomic status, race, political dispositions) are being affected the most
   * Machine Learning: Teaching an agent to avoid random obstacles in a Flappy Bird-style game using reinforcement learning and evolutionary approaches
